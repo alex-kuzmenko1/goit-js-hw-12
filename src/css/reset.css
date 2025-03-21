@@ -27,8 +27,8 @@ button {
   cursor: pointer;
 }
 
-img {
-  display: block;
-  max-width: 100%;
-  height: auto;
+
+.info{
+  display: flex;
+  justify-content: space-around;
 }

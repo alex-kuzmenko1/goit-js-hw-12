@@ -15,7 +15,7 @@
   
   .gallery img {
     width: 320px;
-    height: auto;
+    height: 200px;
     display: block;
   }
 
@@ -87,13 +87,6 @@
     transform: scale(0.98);
   }
   
-
-  .hidden {
-    display: none;
-  }
-  
-
-  
   .load-more {
     display: block;
     margin: 20px auto;
@@ -107,5 +100,10 @@
   
   .load-more:hover {
     background-color: #2980b9;
+  }
+  
+
+  .hidden {
+    display: none;
   }
   
