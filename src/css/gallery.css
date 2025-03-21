@@ -11,6 +11,7 @@
   .gallery li {
     flex: 0 1 calc(25% - 10px); 
     max-width: 320px; 
+    border-radius: 0.5px;
   }
   
   .gallery img {
