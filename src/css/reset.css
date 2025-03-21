@@ -27,8 +27,7 @@ button {
   cursor: pointer;
 }
 
+img {
+  display: block;
 
-.info{
-  display: flex;
-  justify-content: space-around;
 }
